@@ -1,0 +1,8 @@
+inherit_gem:
+  workarea-ci: rubocop.yml
+
+AllCops:
+  Exclude:
+    - 'test/dummy/**/*'
+    - 'lib/styled_selects.rb'
+    - 'lib/styled_selects/**/*'
