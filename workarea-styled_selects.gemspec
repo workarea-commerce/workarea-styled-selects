@@ -7,8 +7,8 @@ require "workarea/styled_selects/version"
 Gem::Specification.new do |s|
   s.name        = "workarea-styled_selects"
   s.version     = Workarea::StyledSelects::VERSION
-  s.authors     = ["Jake Beresford"]
-  s.email       = ["jberesford@weblinc.com"]
+  s.authors     = ['Curt Howard']
+  s.email       = ['choward@workarea.com']
   s.homepage    = "https://github.com/workarea-commerce/workarea-styled_selects"
   s.summary     = "Styled select input UI for the Workarea platform"
   s.description = "Easily customize the styling of the <select> input type in a workarea application"
