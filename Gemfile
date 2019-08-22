@@ -13,7 +13,7 @@ gemspec
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
 
-gem "workarea", source: "https://gems.weblinc.com"
+gem "workarea"
 group :test do
-  gem "workarea-testing", source: "https://gems.weblinc.com"
+  gem "workarea-testing"
 end
